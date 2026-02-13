@@ -43,8 +43,8 @@ pip install shimadzu_fnirs_converter
 
 ### Development install
 ```bash
-git clone https://github.com/Aria031/shimadzu-fnirs-converter
-cd shimadzu-fnirs-converter
+git clone https://github.com/Aria031/shimadzu_fnirs_converter
+cd shimadzu_fnirs_converter
 pip install -e .
 ```
 
