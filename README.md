@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18607367.svg)](https://doi.org/10.5281/zenodo.18607367)
 
-### shimadzu-fnirs-converter
+### shimadzu_fnirs_converter
 
 **Shimadzu fNIRS TXT → SNIRF (.snirf) & MNE FIF (.fif)**
 
@@ -114,12 +114,12 @@ convert_batch(jobs)
 
 ### Command Line
 ```bash
-shimadzu-fnirs-converter --help
+shimadzu_fnirs_converter --help
 ```
 Example:
 
 ```bash
-shimadzu-fnirs-converter \
+shimadzu_fnirs_converter \
   --txt sub01_run1.TXT \
   --origin optodes_origin.csv \
   --others optodes_others.csv \
@@ -139,7 +139,7 @@ shimadzu-fnirs-converter \
 ```bibtex
 @software{dong2026shimadzu,
   author  = {Dong, Jiaran and Zhang, Jingyan and Feng, Chen},
-  title   = {shimadzu-fnirs-converter: Shimadzu fNIRS TXT to SNIRF/FIF converter},
+  title   = {shimadzu_fnirs_converter: Shimadzu fNIRS TXT to SNIRF/FIF converter},
   year    = {2026},
   doi     = {10.5281/zenodo.18607367},
   url     = {https://doi.org/10.5281/zenodo.18607367}
