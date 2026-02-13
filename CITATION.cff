@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: shimadzu-fnirs-converter
+title: shimadzu_fnirs_converter
 message: "If you use this software, please cite it as follows."
 type: software
 
@@ -17,7 +17,7 @@ authors:
 version: 0.1.2
 date-released: 2026-02-11
 license: MIT
-repository-code: https://github.com/Aria031/shimadzu-fnirs-converter
+repository-code: https://github.com/Aria031/shimadzu_fnirs_converter
 keywords:
   - fNIRS
   - SNIRF
