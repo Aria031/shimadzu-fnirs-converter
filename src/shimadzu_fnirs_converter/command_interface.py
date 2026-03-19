@@ -47,7 +47,7 @@ def build_parser() -> argparse.ArgumentParser:
         help="Unit used in coord CSV (default: mm)",
     )
 
-    # ✅ 建议：默认开启 scale_to_m，和 API 默认一致
+    #建议：默认开启 scale_to_m，和 API 默认一致
     p.add_argument(
         "--scale-to-m",
         action="store_true",
